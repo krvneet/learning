@@ -1,5 +1,8 @@
 #include <iostream>
+#include<string.h>
 using namespace std;
+
+i m bitch 
 
 struct Node {
 	int data;
